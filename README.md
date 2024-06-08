@@ -4,7 +4,9 @@
 
 </div>
 
-![01](https://github.com/Yul1b3th/Yul1b3th/assets/113106963/73e1bbee-9521-436d-a1c3-5e07e0c3e131.gif)
+
+![fondo](https://github.com/Yul1b3th/Yul1b3th/assets/113106963/fab0bf03-4e51-488c-a38a-a029515cdd6a)
+
 
 ## Sobre mí
 
