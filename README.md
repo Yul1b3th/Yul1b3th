@@ -5,7 +5,7 @@
 </div>
 
 
-![fondo](https://github.com/Yul1b3th/Yul1b3th/assets/113106963/fab0bf03-4e51-488c-a38a-a029515cdd6a)
+![3090699_447-ai](https://github.com/Yul1b3th/Yul1b3th/assets/113106963/79f3699f-34d8-47a5-a7ea-9307b2f1648b)
 
 
 ## Sobre mí
