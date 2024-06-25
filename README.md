@@ -13,6 +13,10 @@ Desde 2016, me he dedicado al desarrollo web, trabajando con una variedad de tec
 Mi motivación constante es mantenerme actualizada sobre las últimas tendencias y avances en el desarrollo web para aplicar mis conocimientos, habilidades y experiencia en
 contribuir al éxito de la empresa.
 
+
+
+
+
 ## Techs kills:
 
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&color=EC0347) ![Vue](https://img.shields.io/badge/Vue-red?style=flat&color=3FB27F)
@@ -61,9 +65,13 @@ EZHub es una aplicación diseñada para facilitar la búsqueda y gestión de hab
 
 ## Contacto
 
+[![Website](https://img.shields.io/badge/🔗Website-blue?style=flat&color=fff4df)](https://yul1b3th.github.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&color=0077B5)](https://www.linkedin.com/in/yulibeth-rivero/)
 
-[![Website](https://img.shields.io/badge/🔗Website-blue?style=flat&color=fff4df)](https://yul1b3th.github.io/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YulibethRivero)
+
+
 
 📧 [yulibeth.rivero@gmail.com](mailto:yulibeth.rivero@gmail.com)
 
@@ -83,3 +91,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://komarev.com/ghpvc/?username=Yul1b3th&color=brightgreen)
+
+![Visitas de perfil](https://visitor-badge.laobi.icu/badge?page_id=Yul1b3th)
+![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+<!-- Contador de visitas -->
+![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+
+<!-- Contador de visitas -->
+![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+
+<!-- Contador de visitas -->
+![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
