@@ -92,15 +92,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://komarev.com/ghpvc/?username=Yul1b3th&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=Yul1b3th&color=1D82BC)
 
-![Visitas de perfil](https://visitor-badge.laobi.icu/badge?page_id=Yul1b3th)
-![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
-<!-- Contador de visitas -->
-![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+![Visitas de perfil](https://visitor-badge.laobi.icu/badge?page_id=Yul1b3th&style=flat-square&color=1D82BC)
 
-<!-- Contador de visitas -->
-![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
-
-<!-- Contador de visitas -->
-![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+![Visitas de perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul1b3th&count_bg=%231D82BC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
