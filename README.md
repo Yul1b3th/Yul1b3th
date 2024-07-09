@@ -40,7 +40,7 @@ I consider myself an autonomous, flexible person with meticulous attention to de
 ## Projects
 
 ### 🛠️ ITA Challenges
-ITA Challenges is an ongoing application within the educational platform IT Academy by Barcelona Activa, designed for students to access programming challenges, participate in educational activities, and track their progress. Developed by Junior Developers from IT Academy.
+ITA Challenges is an application under development by IT Academy, part of Barcelona Activa's educational platform, designed for students to access programming challenges, participate in educational activities, and track their progress. It is developed by Junior Developers from IT Academy.
 
 - [ITA Challenges Demo](http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges)
 - [ITA Challenges Frontend](https://github.com/IT-Academy-BCN/ita-challenges-frontend)
@@ -49,7 +49,7 @@ ITA Challenges is an ongoing application within the educational platform IT Acad
 Collaboration: Actively collaborating on the ITA Challenges project as part of my internship, implementing new interactive features, conducting tests with Jest, testing APIs with Postman, and managing tasks on GitHub.
 
 ### 🛠️ EZHub
-EZHub is an ongoing application designed to facilitate the search and management of rental rooms. This personal project also served as my final project during the Angular bootcamp, allowing me to apply and solidify my skills in frontend and backend development.
+EZHub is an application under development, designed to facilitate the search and management of rooms for rent. This personal project was also my final project during my Angular bootcamp at IT Academy by Barcelona Activa, where I was able to apply and consolidate my knowledge in frontend and backend development.
 
 The application enables users to search for rooms by geolocation or preferences, interact with the backend to manage users, properties, rooms, and transactions. It includes advanced features such as user authentication with encrypted passwords and session management with JWT. Technologies utilized include Angular, Nest, MySQL, Mapbox, and TailwindCSS.
 
