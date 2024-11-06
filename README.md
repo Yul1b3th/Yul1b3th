@@ -8,14 +8,11 @@
 
 ## About me
 
-Since 2016, I have been working in web development, utilizing a variety of technologies in both design and frontend and backend development. This experience has provided me with a comprehensive understanding of the challenges in web development. Additionally, I have experience working in teams that implement Agile methodologies, quickly adapting and collaborating effectively in dynamic environments.
+Since 2016, I have worked in web development, using various technologies across design, frontend, and backend. I also have experience working in teams that implement Agile methodologies. Since 2022, I have specialized in frontend development, completing a bootcamp in Angular at IT Academy and others in Vue.js at La Salle Universidad Ramon Llull and Eurecat. For my final project in Angular, I developed an application for room search by geolocation, integrating advanced features such as user authentication, password encryption, and session management with JWT, using Angular, Nest, MySQL, Mapbox, and TailwindCSS. You can see the demonstration of this project [here](https://ezhub.vercel.app/).
 
+As a Front End Developer with Angular at IT Academy, I collaborated on the ITA Challenges project, a programming challenge application, where I implemented new interactive features, unit tests with Jest, and managed tasks on GitHub. You can explore the code [here](https://github.com/IT-Academy-BCN/ita-challenges-frontend).
 
-My constant motivation is to stay updated with the latest trends and advancements in web development. Therefore, since 2022, I have been dedicating time to specialized training in Front End development, completing two bootcamps with Vue.js at Eurecat and La Salle Universidad Ramon Llull, and one focused on Angular at IT Academy by Barcelona Activa. For the final project of the Angular bootcamp, I designed and developed an application for room rentals by geolocation, incorporating advanced features such as user authentication with password encryption and session management with JWT. I used technologies like Angular, Nest, MySQL, Mapbox, and TailwindCSS. You can see the demonstration of this project [here](https://ezhub.vercel.app/).
-
-Currently, I am actively collaborating on the ITA Challenges project at IT Academy as part of my internship, an application for completing programming challenges. My role includes implementing new interactive features, performing unit testing with Jest, and collaborating in task management using GitHub. You can explore the code [here](https://github.com/IT-Academy-BCN/ita-challenges-frontend). Additionally, I continue to add new features to my personal project, EZHub.
-
-I consider myself an autonomous, flexible person with meticulous attention to detail. I enjoy working in a team, exchanging ideas, and cooperating to achieve objectives.
+I am autonomous, flexible, and detail-oriented. I enjoy teamwork and collaborating to achieve common goals. I am open to new collaborations and opportunities for growth in web development.
 
 
 
@@ -32,7 +29,7 @@ I consider myself an autonomous, flexible person with meticulous attention to de
 ### Soft Skills:
 
 - ⚙️ Autonomy
-- 🎯 Achievement Orientation
+- 🎯 Goal Orientation
 - 👥 Teamwork
 - 👩‍💼 Customer Orientation
 - 🔄 Flexibility and Change Management
@@ -40,23 +37,25 @@ I consider myself an autonomous, flexible person with meticulous attention to de
 ## Projects
 
 ### 🛠️ ITA Challenges
-ITA Challenges is an application under development by IT Academy, part of Barcelona Activa's educational platform, designed for students to access programming challenges, participate in educational activities, and track their progress. It is developed by Junior Developers from IT Academy.
+An application developed by IT Academy that enables students to participate in programming challenges and track their progress. In 2024, I actively collaborated by implementing interactive features, conducting unit testing with Jest, and managing tasks in GitHub.
 
 - [ITA Challenges Demo](http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges)
 - [ITA Challenges Frontend](https://github.com/IT-Academy-BCN/ita-challenges-frontend)
 - [ITA Challenges Backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
 
-Collaboration: Actively collaborating on the ITA Challenges project as part of my internship, implementing new interactive features, conducting tests with Jest, testing APIs with Postman, and managing tasks on GitHub.
-
 ### 🛠️ EZHub
-EZHub is an application under development, designed to facilitate the search and management of rooms for rent. This personal project was also my final project during my Angular bootcamp at IT Academy by Barcelona Activa, where I was able to apply and consolidate my knowledge in frontend and backend development.
-
-The application enables users to search for rooms by geolocation or preferences, interact with the backend to manage users, properties, rooms, and transactions. It includes advanced features such as user authentication with encrypted passwords and session management with JWT. Technologies utilized include Angular, Nest, MySQL, Mapbox, and TailwindCSS.
+An application in development for room searches by geolocation, designed as the final project for my Angular bootcamp at IT Academy. The application interacts with the backend to manage users, properties, and rooms, and includes user authentication with JWT and password encryption. Built with Angular, Nest, MySQL, Mapbox, and TailwindCSS.
 
 - [EZHub Demo](https://ezhub.vercel.app/)
 - [EZHub Frontend](https://github.com/Yul1b3th/ezhub-frontend)
 - [EZHub Backend](https://github.com/Yul1b3th/ezhub-backend)
 
+### ✅ EduMap
+An application that allows users to visualize and analyze data related to access and equity in education through interactive maps. Data sourced from OpenData Barcelona allows users to explore indicators by district, such as household income and distribution of educational centers. This project was part of a hackathon at IT Academy, held on October 22, 2024, and involved a team of professionals in Data Analysis, Back-End, and Front-End disciplines.
+- [EduMap Demo](https://edu-front-delta.vercel.app/)
+- [EduMap Frontend](https://github.com/Yul1b3th/edu-front)
+- [EduMap Backend](https://github.com/amarinite/hackatonITAcademy)
+  
 
 ## GitHub Analytics
 
@@ -75,7 +74,7 @@ The application enables users to search for rooms by geolocation or preferences,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&color=0077B5)](https://www.linkedin.com/in/yulibeth-rivero/)
 
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YulibethRivero)
+<!--[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YulibethRivero)-->
 
 
 
