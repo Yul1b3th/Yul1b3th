@@ -18,7 +18,7 @@ I am autonomous, flexible, and detail-oriented. I enjoy teamwork and collaborati
 
 
 
-### Techs kills:
+### Tech Skills:
 
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&color=EC0347) ![Vue](https://img.shields.io/badge/Vue-red?style=flat&color=3FB27F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-red?style=flat&color=2F74C0) ![JavaScript](https://img.shields.io/badge/JavaScript-red?style=flat&color=EFD81D)
