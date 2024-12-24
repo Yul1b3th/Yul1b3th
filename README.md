@@ -8,7 +8,7 @@
 
 ## About me
 
-Since 2016, I have been working in web development and digital marketing, focusing on frontend development by designing and coding interfaces. Since 2022, I have specialized in modern technologies and the latest trends, completing an Angular bootcamp at IT Academy and additional Vue.js bootcamps at La Salle Ramon Llull University and Eurecat. As my final Angular project, I developed an application for room searches by geolocation, integrating advanced features such as password encryption with bcrypt and authentication with JWT, using Angular, Nest, MySQL, Mapbox, and TailwindCSS. You can see the demonstration of this project [here](https://ezhub.vercel.app/).
+Since 2016, I have been working in web development and digital marketing, focusing on frontend by designing and coding interfaces. I also have experience working in teams that implement Agile methodologies. Since 2022, I specialize in modern technologies and the latest trends, completing an Angular bootcamp at IT Academy and other Vue.js bootcamps at La Salle Universidad Ramon Llull and Eurecat. As a final project in Angular, I developed an application for room searching based on geolocation, integrating advanced features such as password encryption with bcrypt and authentication with JWT, using Angular, Nest, MySQL, Mapbox, and TailwindCSS. You can see the demonstration of this project [here](https://ezhub.vercel.app/).
 
 After finishing the Angular bootcamp, I collaborated on IT Academy's ITA Challenges project, an application for programming challenges. I implemented interactive features, unit tests with Jest, and managed tasks on GitHub. You can explore the code [here](https://github.com/IT-Academy-BCN/ita-challenges-frontend).
 
