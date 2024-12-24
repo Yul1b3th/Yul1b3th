@@ -8,9 +8,11 @@
 
 ## About me
 
-Since 2016, I have worked in web development, using various technologies across design, frontend, and backend. I also have experience working in teams that implement Agile methodologies. Since 2022, I have specialized in frontend development, completing a bootcamp in Angular at IT Academy and others in Vue.js at La Salle Universidad Ramon Llull and Eurecat. For my final project in Angular, I developed an application for room search by geolocation, integrating advanced features such as user authentication, password encryption, and session management with JWT, using Angular, Nest, MySQL, Mapbox, and TailwindCSS. You can see the demonstration of this project [here](https://ezhub.vercel.app/).
+Since 2016, I have been working in web development and digital marketing, focusing on frontend development by designing and coding interfaces. Since 2022, I have specialized in modern technologies and the latest trends, completing an Angular bootcamp at IT Academy and additional Vue.js bootcamps at La Salle Ramon Llull University and Eurecat. As my final Angular project, I developed an application for room searches by geolocation, integrating advanced features such as password encryption with bcrypt and authentication with JWT, using Angular, Nest, MySQL, Mapbox, and TailwindCSS. You can see the demonstration of this project [here](https://ezhub.vercel.app/).
 
-As a Front End Developer with Angular at IT Academy, I collaborated on the ITA Challenges project, a programming challenge application, where I implemented new interactive features, unit tests with Jest, and managed tasks on GitHub. You can explore the code [here](https://github.com/IT-Academy-BCN/ita-challenges-frontend).
+After finishing the Angular bootcamp, I collaborated on IT Academy's ITA Challenges project, an application for programming challenges. I implemented interactive features, unit tests with Jest, and managed tasks on GitHub. You can explore the code [here](https://github.com/IT-Academy-BCN/ita-challenges-frontend).
+
+Currently, I continue to stay updated on modern Angular and the latest trends, participating in hackathons and improving my Angular bootcamp final project. This includes the optimization of the Design System, database, backend, and frontend.
 
 I am autonomous, flexible, and detail-oriented. I enjoy teamwork and collaborating to achieve common goals. I am open to new collaborations and opportunities for growth in web development.
 
